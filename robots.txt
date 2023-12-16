@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://bsafe.network/TMBE/public/sitemap.xml
